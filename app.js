@@ -72,7 +72,7 @@ const galleryHTML = galleryItems
       `<li class="gallery__item">
                 <a
                         class="gallery__link"
-                        href="#"
+                        href=" href="https://cdn.pixabay.com/photo/2010/12/13/10/13/tulips-2546_1280.jpg""
                 >
                         <img
                                 class="gallery__image"
